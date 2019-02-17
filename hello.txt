@@ -1,2 +1,2 @@
-helloworld
-�������
+﻿helloworld
+你好世界，未来可期。
